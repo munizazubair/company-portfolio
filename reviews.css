@@ -1,0 +1,139 @@
+#section6{
+    background-color: rgb(234, 231, 231);
+    font-family: sans-serif;
+}
+
+.sec6-container1{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    justify-content: space-around;
+
+
+
+}
+
+.sec6-container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+.sec6-column1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 6px 35px 0px 0px;
+
+}
+.sec6-column2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 6px 35px 0px 0px;
+}
+.sec6-column3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 16px 35px 0px 0px;
+}
+.sec6-column4{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 16px 35px 0px 0px;
+}
+.sec6-heading{
+    font-family: sans-serif;
+    font-weight: 500;
+
+}
+.sec6-p{
+    text-align: start;
+    font-size: 12px;
+}
+
+.sec6-img1{
+    background-image: url("person1.icon.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid  rgb(105, 105, 105);
+    margin-left: 13px;
+}
+
+.sec6-img2{
+    background-image: url("person2.icon.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid rgb(105, 105, 105);
+    margin-left: 13px;
+}
+.sec6-img3{
+    background-image: url("person3.icon.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid  rgb(105, 105, 105);
+    margin-left: 13px;
+    margin-top: 10px
+}
+.sec6-img4{
+    background-image: url("person4.icon.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid  rgb(105, 105, 105);
+    margin-left: 13px;
+    margin-top: 10px
+}
+.sec6-linex{
+    height: 1px;
+    width: 950px;
+    background-color:  rgb(105, 105, 105);
+    margin: 0px 0px 6px 20px;
+
+
+
+}
+.sec6-liney{
+    height: 120px;
+    width: 1px;
+    background-color: rgb(105, 105, 105);
+    position: absolute;
+
+}
+
+.sec6-circles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+}
+
+.sec6-circle1{
+    background-color: rgb(255, 98, 0);
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+}
+
+.sec6-circle2{
+    background-color:rgb(255, 242, 0) ;
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+}
+.sec6-circle3{
+    background-color: rgb(255, 170, 0);
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+}

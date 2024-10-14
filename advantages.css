@@ -1,0 +1,79 @@
+
+.sec-p{
+    font-size: 13px;
+    font-weight: 100;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 40px 0px ;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.sec1-img1{
+    background-image: url("innovation.jpg");
+    background-size: cover;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    border: 2px solid grey;
+}
+
+.sec1-semi1{
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+.sec1-img2{
+    background-image: url("quality.jpg");
+    background-size: cover;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    border: 2px solid grey;
+}
+
+.sec1-semi2{
+    padding: 0px 30px 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 500;
+    gap: 12px;
+
+}
+.sec1-img3{
+
+    background-image: url("experience.jpg");
+    background-size: cover;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    border: 2px solid grey;
+}
+.sec1-img4{
+    background-image: url("happ-clients.jpg");
+   background-size: cover;
+   height: 70px;
+   width: 70px;
+   border-radius: 35px;
+   border: 2px solid grey;
+}
+.sec1-img5{
+    background-image: url("support.jpg");
+    background-size: cover;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    border: 2px solid grey;
+}
+.para{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

@@ -1,0 +1,105 @@
+
+.sec5-container{
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+
+.sec5-container2{
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 500;
+    gap: 12px;
+}
+
+
+.sec5-img1{
+    /* background-color: aqua; */
+    background-image: url("IMG-20241012-WA0011.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: relative;
+}
+
+.sec5-img2{
+
+    background-image: url("IMG-20241012-WA0008.jpg");
+    background-size: cover;   
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: relative;
+}
+
+.sec5-img3{
+
+    background-image: url("IMG-20241012-WA0010.jpg");
+    background-size: cover;       
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: relative;
+}
+
+.sec5-img4{
+
+    background-image: url("IMG-20241012-WA0012.jpg");
+    background-size: cover;       
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: relative;
+}
+
+.sec5-img5{
+
+    background-image: url("IMG-20241012-WA0009.jpg");
+    background-size: cover;   
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: relative;
+}
+
+.sec5-img6{
+
+    background-image: url("IMG-20241012-WA0013.jpg");
+    background-size: cover;   
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    position: relative;
+}
+.sec5-inner-img{
+    height:30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(248, 168, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: -10%;
+    left: 35%;
+}
+.line{
+    height: 2px;
+    width: 80px;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+}

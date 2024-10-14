@@ -1,0 +1,20 @@
+#section-a{
+    padding-top: 40px ;
+    background-color: #29af72;
+}
+form{
+    padding-bottom: 20px;
+}
+.a-input{
+    height: 25px;
+    width: 200px;
+    border-radius: 4px;
+    border: 2px solid aliceblue;
+}
+.a-submit{
+    height: 28px;
+    width: 120px;
+    border-radius: 4px;
+    background-color: rgb(248, 168, 21);
+    border: 2px solid rgb(248, 168, 21);
+}

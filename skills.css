@@ -1,0 +1,99 @@
+.sec7-main-circle1{
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background: conic-gradient(#f8ec03 45%, #f8ec034f 45%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+  position: relative;
+}
+.sec7-main-circle2{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: conic-gradient(#df2104 60%, rgba(201, 85, 67, 0.384) 60%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+  }
+  .sec7-main-circle3{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: conic-gradient(#29af72 75%, #29af734c 75%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+  }
+  .sec7-main-circle4{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: conic-gradient(#0b0b0b 80%, rgba(98, 96, 96, 0.277) 80%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+  }
+.sec7-circle2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-color: white;
+}
+.percentage {
+  position: absolute;
+  
+  font-family: sans-serif;
+  font-size: 22px;
+}
+
+.sec7-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 30px 0px 30px;
+}
+
+.sec7-text{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 40px 10px 40px;
+    /* gap: 10px; */
+}
+.sec7-text2-1{
+    font-family: sans-serif;
+    font-weight: 550;
+    color: black;
+    font-size: 13px;
+}
+.sec7-text2-2{
+    padding-left: 40px;
+    font-family: sans-serif;
+    font-weight: 550;
+    color: black;
+    font-size: 13px;
+}
+.sec7-text2-3{
+    padding-left: 20px;
+    font-family: sans-serif;
+    font-weight: 550;
+    color: black;
+    font-size: 13px;
+}
+.sec7-text2-4{
+    font-family: sans-serif;
+    font-weight: 550;
+    color: black;
+    font-size: 13px;
+}

@@ -1,0 +1,39 @@
+.sec3-container{
+        display: flex;
+        justify-content: space-around;
+        font-family: sans-serif;
+        padding-top: 10px;
+        
+}
+
+.sec3-container2{
+    padding: 0px 20px 15px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 2px;
+    height: 170px;
+    width: 190px;
+    gap: 10px;
+    background-color: rgb(234, 231, 231);
+    position: relative;
+
+}
+.sec3-anchor{
+    color: #29af72;
+    padding-top: 10px;
+}
+.sec3-inner-img{
+
+    background-image: url("star.jpg");
+    background-size: cover;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    position: absolute;
+    top: -17%;
+    left: 38%;
+}

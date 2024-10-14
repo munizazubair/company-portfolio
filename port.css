@@ -1,0 +1,253 @@
+#section4{
+    background-color: black;
+    font-family: sans-serif;
+    
+    /* scroll-margin-left: 0px; */
+}
+#different{
+    color: white;
+    font-size: 40px;
+}
+.sec-para{
+    padding-top: 6px;
+    font-size: 12px;
+    font-weight: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.sec4-container{
+    padding: 22px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    font-size: 15px;
+}
+.sec4-item1{
+    text-decoration: none;
+    color: white;
+}
+.sec4-item2{
+    text-decoration: none;
+    color: white;
+}
+.sec4-item3{
+    text-decoration: none;
+    color: white;
+}
+.sec4-item4{
+    text-decoration: none;
+    color: white;
+}
+.sec4-item5{
+    text-decoration: none;
+    color: white;
+}
+.sec4-item6{
+    text-decoration: none;
+    color: white;
+}
+.sec4-heading{
+    font-size: 45px;
+    color: white ;
+    border: 3px solid rgb(248, 168, 21);
+    background-color:rgba(248, 168, 21,0.5) ;
+    border-radius: 8%;
+}
+
+#sec4-opt1{
+    color: white;
+     margin: 10px 0px 80px 200px;
+    background-color: rgb(50, 49, 49);
+    height: 280px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    gap: 25px;
+}
+.sec4-p{
+    text-align: center;
+   
+}
+
+#sec4-opt2{
+    color: white;
+    margin: 10px 200px 80px 220px;
+   background-color: rgb(50, 49, 49);
+   height: 280px;
+   width: 600px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: start;
+   gap: 25px;
+   scroll-margin-left: 50%;
+}
+.sec4-item1:active{
+    color: rgb(248, 168, 21);
+    
+}
+.sec4-item2:active{
+    color: rgb(248, 168, 21);
+
+}
+.sec4-item3:active{
+    color: rgb(248, 168, 21);
+
+}.sec4-item4:focus{
+    color: rgb(248, 168, 21);
+
+}.sec4-item5:active{
+    color: rgb(248, 168, 21);
+
+}.sec4-item6:active{
+    color: rgb(248, 168, 21);
+
+}
+
+#sec4-opt3{
+    color: white;
+    margin: 10px 200px 80px 200px;
+   background-color: rgb(50, 49, 49);
+   height: 280px;
+   width: 600px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: start;
+   gap: 25px;
+}
+#sec4-opt4{
+    color: white;
+     margin: 10px 180px 80px 210px;
+    background-color: rgb(50, 49, 49);
+    height: 280px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    gap: 25px;
+}
+#sec4-opt5{
+    color: white;
+     margin: 10px 200px 80px 200px;
+    background-color: rgb(50, 49, 49);
+    height: 280px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    gap: 25px;
+}
+#sec4-opt6{
+    color: white;
+    margin: 10px 210px 80px 200px;
+   background-color: rgb(50, 49, 49);
+   height: 280px;
+   width: 600px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: start;
+   gap: 25px;
+}
+.sec4-options{
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+    flex-wrap: nowrap;   
+}
+.sec4-options2 {
+    display: flex;
+    flex-direction: row; 
+    gap: 20px;
+}
+.sec4-inside-pics1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec4-inside-pics2{
+    display: flex;
+    flex-direction: row;   
+    justify-content: center;
+    /* padding-top: 20px; */
+    margin-bottom: 8px;
+}
+.sec4-inside-img1{
+    height: 90px;
+    width: 90px;
+    background-image: url("IMG-20241012-WA0014.jpg");  
+    background-size: cover;  
+    border: 2px solid black;
+}
+.sec4-inside-img2{
+    height: 90px;
+    width: 90px;
+    background-image: url("WhatsApp Image 2024-10-12 at 17.32.43_8a0af8b7.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}.sec4-inside-img3{
+    height: 90px;
+    width: 90px;
+    background-image: url("WhatsApp Image 2024-10-12 at 17.32.44_7df82118.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}.sec4-inside-img4{
+    height: 90px;
+    width: 90px;
+    background-image: url("WhatsApp Image 2024-10-12 at 17.32.40_c5a6093e.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}.sec4-inside-img5{
+    height: 90px;
+    width: 90px;
+    background-image: url("IMG-20241012-WA0020.jpg");  
+    background-size: cover;    
+    border: 2px solid black;;
+}.sec4-inside-img6{
+    height: 90px;
+    width: 90px;
+    background-image: url("IMG-20241012-WA0019.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}.sec4-inside-img7{
+    height: 90px;
+    width: 90px;
+    background-image: url("IMG-20241012-WA0018.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}.sec4-inside-img8{
+    height: 90px;
+    width: 90px;
+    background-image: url("IMG-20241012-WA0017.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}.sec4-inside-img9{
+    height: 90px;
+    width: 90px;
+    background-image: url("IMG-20241012-WA0016.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}.sec4-inside-img10{
+    height: 90px;
+    width: 90px;
+    background-image: url("IMG-20241012-WA0015.jpg");  
+    background-size: cover;    
+    border: 2px solid black;
+}
